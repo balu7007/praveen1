@@ -4,7 +4,7 @@
   <groupId>com.maaven.practice</groupId>
   <artifactId>myapp</artifactId>
   <packaging>jar</packaging>
-  <version>1.1</version>
+  <version>1.0</version>
   
   <dependencies>
     <dependency>
@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>artechrele</id>
-			<url>http://localhost:8081/nexus/content/repositories/artechrele//</url>
+			<id>praveenrele</id>
+			<url>http://localhost:8081/nexus/content/repositories/praveenrele//</url>
 		</repository>
 		<snapshotRepository>
-			<id>artechsnap</id>
-			<url>http://localhost:8081/nexus/content/repositories/artechsnap//</url>
+			<id>praveensnap</id>
+			<url>http://localhost:8081/nexus/content/repositories/praveensnap//</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
